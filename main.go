@@ -1,4 +1,4 @@
-// This is simple example from golang book
+// This is simple example from golang book (http://golang-book.ru/chapter-13-core-packages.html)
 package main
 
 import (
