@@ -1,4 +1,4 @@
-
+// This is simple example from golang book
 package main
 
 import (
